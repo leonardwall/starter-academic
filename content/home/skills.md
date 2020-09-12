@@ -25,6 +25,11 @@ subtitle = ""
   name = "Amazon Web Services"
 
 [[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "GitHub"
+
+[[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
@@ -33,6 +38,17 @@ subtitle = ""
   icon = "apple"
   icon_pack = "fab"
   name = "Apple"
+  
+[[feature]]
+  icon = "windows"
+  icon_pack = "fab"
+  name = "Windows"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
