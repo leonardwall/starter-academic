@@ -48,4 +48,25 @@ date_format = "Jan 2006"
   date_end = ""
   description = "GSTRT professionals know how to tailor cyber security to the needs of the business and organization first. They can develop strategic plans, create effective information security policy, while presenting in terms that senior executives can understand. They possess management and leadership skills, tools, and techniques. They have the ability to lead security teams, stand up security programs, and improve the security of any organization in a business savvy way."
 
+[[item]]
+  organization = "GIAC"
+  organization_url = "https://www.giac.org/"
+  title = "GIAC Advisory Board"
+  url = "https://www.giac.org/certified-professionals/advisory-board"
+  certificate_url = "https://www.youracclaim.com/badges/a99b8ae1-9ee0-4602-a4f8-347529041629/public_url"
+  date_start = "2020-01-23"
+  date_end = ""
+  description = "The GIAC Advisory Board is an invitation only, email-based forum where IT Security professionals can exchange ideas and advice. Invitations are extended to GIAC certified professionals who demonstrate exemplary performance on GIAC exams.  Members are often consulted as subject-matter experts for content-related issues in various GIAC program needs."
+
+[[item]]
+  organization = "GIAC"
+  organization_url = "https://www.giac.org/"
+  title = "GIAC Security Leadership (GSLC)"
+  url = "https://www.giac.org/certification/security-leadership-gslc"
+  certificate_url = "https://www.youracclaim.com/badges/8f7d9d05-0b27-4f7c-9ce7-0280ec7c7f65/public_url"
+  date_start = "2020-07-27"
+  date_end = ""
+  description = "The GIAC Security Leadership (GSLC) certification validates a practitioner's understanding of governance and technical controls focused on protecting, detecting, and responding to security issues. GSLC certification holders have demonstrated knowledge of data, network, host, application, and user controls along with key management topics that address the overall security lifecycle."
+
+
 +++
